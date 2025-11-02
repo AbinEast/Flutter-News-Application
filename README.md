@@ -22,9 +22,9 @@ News Browsing
 - News cards displaying Thumbnail image with gradient placeholder Article title, Category tag, Publish time, Bookmark icon, Publisher avatar
 
 Detail Screen
--Full-screen immersive header extending to status bar
--Transparent AppBar with semi-transparent action buttons
--Article information: Publisher badge, Article title, Publication time, Category tag, Article content
+- Fullscreen immersive header extending to status bar
+- Transparent AppBar with semi-transparent action buttons
+- Article information: Publisher badge, Article title, Publication time, Category tag, Article content
 
 Profile Screen
 - User profile header with avatar
