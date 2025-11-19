@@ -11,7 +11,7 @@ Home Screen
 - Grid view display for news articles (2 columns)
 - Search bar with location indicator (Indonesia)
 - Category filter chips (Technology, Sports, Business, Entertainment)
-- Dynamic view switching (Grid view ↔ List view)
+- Dynamic view switching (Grid view / List view)
 - Real-time category filtering
 - Bottom navigation bar for main navigation
 
